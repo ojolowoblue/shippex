@@ -30,7 +30,7 @@ client.interceptors.response.use(
 
   async function (error: AxiosError) {
     if (error.response?.status === 403) {
-      // window.location.href = '/auth';
+      window.location.href = '/auth';
     }
 
     return Promise.reject(error);
