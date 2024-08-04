@@ -128,8 +128,8 @@ export default function Shipments() {
                   <p className="text-sm font-medium text-muted">Dec 16, 2023</p>
                 </div>
 
-                <div className="relative border-s border-gray-200 pl-6">
-                  <div className="absolute w-3 h-3 bg-gray-200 rounded-full -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
+                <div className="relative border-s border-border pl-6">
+                  <div className="absolute w-3 h-3 bg-[#9CA3AF] rounded-full -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
                   <div className="-mt-1.5 pb-8">
                     <time className="font-semibold leading-none text-foreground">Shipment created</time>
                     <p className="mt-1 text-base font-medium text-muted">Shipment Description</p>
@@ -148,8 +148,8 @@ export default function Shipments() {
                   <p className="text-sm font-medium text-muted">Dec 16, 2023</p>
                 </div>
 
-                <div className="relative border-s border-gray-200 pl-6">
-                  <div className="absolute w-3 h-3 bg-gray-200 rounded-full -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
+                <div className="relative border-s border-border pl-6">
+                  <div className="absolute w-3 h-3 bg-[#9CA3AF] rounded-full -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
                   <div className="-mt-1.5 pb-8">
                     <time className="font-semibold leading-none text-foreground">Shipment picked-up</time>
                     <div className="flex gap-2 items-center py-3">
@@ -167,8 +167,8 @@ export default function Shipments() {
                   <time className="text-sm block font-medium text-muted">Dec 16, 2023</time>
                 </div>
 
-                <div className="relative border-s border-gray-200 pl-6">
-                  <div className="absolute w-3 h-3 bg-gray-200 rounded-full -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
+                <div className="relative border-s border-border pl-6">
+                  <div className="absolute w-3 h-3 bg-[#9CA3AF] rounded-full -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
                   <div className="-mt-1.5 pb-8">
                     <time className="font-semibold leading-none text-foreground">Proof of pick-up</time>
                     <p className="mt-1 text-base font-medium text-muted">Proof of pick-up description</p>
@@ -187,8 +187,8 @@ export default function Shipments() {
                   <time className="text-sm block font-medium text-muted">Dec 16, 2023</time>
                 </div>
 
-                <div className="relative border-s border-gray-200 pl-6">
-                  <div className="absolute w-3 h-3 bg-gray-200 rounded-full -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
+                <div className="relative border-s border-border pl-6">
+                  <div className="absolute w-3 h-3 bg-[#9CA3AF] rounded-full -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
                   <div className="-mt-1.5 pb-8">
                     <time className="font-semibold leading-none text-foreground">Shipment on delivery</time>
                     <p className="mt-1 text-base font-medium text-muted">Description goes here</p>
