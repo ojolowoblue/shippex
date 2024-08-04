@@ -28,7 +28,7 @@ export default function Login() {
     setError,
     handleSubmit,
   } = useForm<Yup.InferType<typeof schema>>({
-    values: { usr: 'test@brandimic.com', pwd: 'testy123@', remember: false },
+    values: { usr: '', pwd: '', remember: false },
     resolver: yupResolver(schema),
   });
 
